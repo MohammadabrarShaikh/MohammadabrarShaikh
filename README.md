@@ -75,7 +75,7 @@
 
 ## 🔹 Connect With Me  
 <p>
-  <a href="https://www.linkedin.com/in/mohammadabrars"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mohammadabrar-shaikh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
