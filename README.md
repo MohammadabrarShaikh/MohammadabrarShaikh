@@ -49,21 +49,6 @@ My approach goes beyond traditional testing — I own features from kick-off to 
 
 ---
 
-## 🔬 My Work — Live Bug Reports
-
-Real verified bugs found during game testing. Click through to view full reports with reproduction steps, evidence, and video proof.
-
-### Oh BiBi / Frag
-
-| Bug ID | Summary | Severity | Status |
-|---|---|---|---|
-| `FRAG-001` | Rate Flag Dialog Displays Debug String | 🟢 Low | Reported |
-| `FRAG-002` | Agent Jet Can Bypass Port C Barrier Using Special Ability | 🟡 Medium | Reported |
-
-> 📁 More bug reports added as titles ship. Details withheld for NDA-covered projects.
-
----
-
 ## 🛠️ Skills & Arsenal
 
 ### Testing Disciplines
