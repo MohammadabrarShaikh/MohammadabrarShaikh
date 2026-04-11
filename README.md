@@ -2,9 +2,9 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  INITIALISING PORTFOLIO v1.0  ·  PLAYER: MOHAMMADABRAR SHAIKH   ║
-╚══════════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════╗
+║  PLAYER: MOHAMMADABRAR SHAIKH   ║
+╚═════════════════════════════════╝
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F5A623&height=120&section=header&text=MS+%2F%2F+QA&fontSize=52&fontColor=080A0E&fontAlignY=65&animation=fadeIn" />
@@ -22,17 +22,6 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-F5A623?style=for-the-badge&logo=github&logoColor=080A0E)](https://github.com/MohammadabrarShaikh)
 
 </div>
-
----
-
-<!-- BOOT SEQUENCE -->
-```
-> LOADING QA ARSENAL................. [████████████████████] 100%
-> CALIBRATING BUG DETECTORS......... [████████████████████] 100%
-> SPAWNING PORTFOLIO ASSETS.......... [████████████████████] 100%
-> FEATURE POC REPORTING FOR DUTY.... [████████████████████] 100%
-> ALL SYSTEMS GO. WELCOME.
-```
 
 ---
 
@@ -55,10 +44,8 @@ STATUS   : 🟢 AVAILABLE FOR NEW MISSIONS
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  ⬡  LEVEL 2 QA ENGINEER                            │
-│     Bug Hunter · Feature Guardian · Quality Sentinel │
-│                                                      │
-│  XP  ████████████████████░░░░░░  72% → LEVEL 3      │
+│  ⬡   LEVEL 2 QA ENGINEER                            │
+│    Bug Hunter · Feature Guardian · Quality Sentinel │            
 └─────────────────────────────────────────────────────┘
 ```
 
@@ -107,68 +94,7 @@ STATUS   : 🟢 AVAILABLE FOR NEW MISSIONS
 
 ---
 
-## `// 05 — FIELD EVIDENCE · LIVE BUG REPORTS`
-
-> Real bugs. Real evidence. Verified and reproducible.
-
-### 🏢 Studio: Oh BiBi / Frag
-
-| BUG ID | SUMMARY | SEVERITY | STATUS | EVIDENCE |
-|---|---|---|---|---|
-| `FRAG-001` | Rate Flag Dialog Displays Debug String | 🟢 LOW | Reported | 🎥 Video |
-| `FRAG-002` | Agent Jet Bypasses Port C Barrier via Special Ability | 🟡 MEDIUM | Reported | 🎥 Video |
-
-<details>
-<summary><b>⬡ FRAG-001 — Rate Flag Dialog Displays Debug String</b></summary>
-
-<br>
-
-**Platform:** iOS / Android &nbsp;·&nbsp; **Build:** v4.2.1 (Live) &nbsp;·&nbsp; **Repro:** 5/5
-
-**Description:**
-When the user freshly installs the game and completes the tutorial, the Rate Flag dialog is displayed. Tapping on the text fields shows a debug string in the textbox instead of an empty input field.
-
-**Steps to Reproduce:**
-1. Freshly install the game
-2. Complete the tutorial
-3. Wait for the Rate Flag dialog to surface
-4. Tap on the text field
-5. Observe: a debug string is displayed in the textbox
-
-| Expected | Actual |
-|---|---|
-| Empty textbox on tap | Debug string appears in the text field |
-
-</details>
-
-<details>
-<summary><b>⬡ FRAG-002 — Agent Jet Bypasses Port C Barrier via Special Ability</b></summary>
-
-<br>
-
-**Platform:** Android (18:9 devices) &nbsp;·&nbsp; **Build:** v4.2.1 (Live) &nbsp;·&nbsp; **Repro:** 5/5
-
-**Description:**
-Agent Jet is able to bypass the restricted barrier at Port C by using their special flying ability, allowing unintended access to restricted areas.
-
-**Steps to Reproduce:**
-1. Launch the game
-2. Start a match
-3. Select Agent Jet
-4. Navigate to the barrier at Port C
-5. Tap on the super ability
-6. Move forward and hover above the barrier
-7. Observe the agent pass the barrier
-
-| Expected | Actual |
-|---|---|
-| Agent Jet cannot cross the Port C barrier | Agent Jet flies through the barrier successfully |
-
-</details>
-
----
-
-## `// 06 — TESTING ARSENAL`
+## `// 05 — TESTING ARSENAL`
 
 **Testing Disciplines**
 
@@ -197,7 +123,7 @@ Agent Jet is able to bypass the restricted barrier at Port C by using their spec
 
 ---
 
-## `// 07 — GITHUB STATS`
+## `// 06 — GITHUB STATS`
 
 <div align="center">
 
@@ -209,7 +135,7 @@ Agent Jet is able to bypass the restricted barrier at Port C by using their spec
 
 ---
 
-## `// 08 — SKILL TREE · EDUCATION`
+## `// 07 — SKILL TREE · EDUCATION`
 
 ```
 🎓  Bachelor of Business Administration — Computer Application
@@ -219,7 +145,7 @@ Agent Jet is able to bypass the restricted barrier at Port C by using their spec
 
 ---
 
-## `// 09 — INITIATE CONTACT`
+## `// 08 — INITIATE CONTACT`
 
 ```
 OPEN TO   : AAA Studios · Mobile-First Teams · Quality-Driven Companies
