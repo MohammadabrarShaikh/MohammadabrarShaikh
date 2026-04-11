@@ -1,83 +1,136 @@
-<h1 align="center">Hi 👋, I'm Mohammad Abrar Shaikh</h1>
-<h3 align="center">QA Engineer | Manual + Automation (Java + Selenium) | ISTQB Aspirant</h3>
+<div align="center">
+
+# 👾 Mohammadabrar Shaikh
+### Game QA Engineer · Feature POC · Bug Hunter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadabrar-shaikh/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadabrarShaikh)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrarshaikh842121@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F5A623?style=for-the-badge&logo=gamepad&logoColor=black)](#)
+
+</div>
 
 ---
 
-## 🔹 About Me  
-- 🧪 **Game Test Engineer** with hands-on experience in testing gameplay, UI/UX, bugs, and player experience  
-- 📝 Strong **Manual Testing knowledge**:  
-  - Test Case Writing  
-  - Test Scenarios  
-  - Functional Testing  
-  - Regression Testing  
-  - Smoke & Sanity Testing  
-  - Bug Reporting  
-- 🛠️ Tools I use:  
-  - **Jira** (Bug tracking & Agile workflows)  
-  - **TestRail / Excel** (Test case management)  
-  - **Agile / Scrum** methodology  
-- 🚀 Currently learning **Automation Testing**  
-  - Java  
-  - Selenium WebDriver  
-  - TestNG  
-  - Maven  
-  - Git & GitHub  
-- 🎓 Preparing for **ISTQB Foundation Level**  
-- 🎮 Passionate about quality, automation, games & technology  
+## 🎮 About Me
+
+I'm a **Senior Game QA Engineer** at GlobalStep with **2.5+ years** of experience shipping quality across PC, mobile, and web game titles. I specialize in **end-to-end feature ownership**, edge-case detection, and delivering production-ready releases with minimal post-launch issues.
+
+My approach goes beyond traditional testing — I own features from kick-off to release, collaborate directly with clients, and mentor junior QA engineers to raise the quality bar across the team.
+
+```
+📍 Pune, India      💼 GlobalStep (Senior QA Engineer)      🟢 Open to Opportunities
+```
 
 ---
 
-## 🔹 Skills & Tools
+## 📊 QA Stats at a Glance
 
-### 🧪 **Testing Skills**
-- Manual Testing  
-- Test Case Creation  
-- Defect Tracking  
-- SDLC & STLC  
-- Agile Scrum Process  
-- Smoke / Sanity / Regression Testing  
-
-### 🛠️ **Tools**
-<p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestRail-28A745?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white"/>
-</p>
-
-### 💻 **Automation (Learning)**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+| Metric | Value |
+|---|---|
+| 🐛 Total Bugs Reported | **1,000+** |
+| ⚠️ High Severity Bug Rate | **45%** |
+| 🚀 AAA Titles Shipped | **3+** |
+| 📋 Avg Bugs Per Sprint | **35** |
+| ✅ Bug-Free Release Quality | **95%** |
+| 🗓️ Years of Experience | **3+** |
 
 ---
 
-## 🔹 Roadmap (My 2025 Goals)
-- ✔ Learn Java basics  
-- ✔ Set up GitHub + Portfolio  
-- 🔄 Selenium WebDriver  
-- 🔄 TestNG Framework  
-- 🔜 Build Real Automation Framework  
-- 🔜 API Testing (Postman + RestAssured)  
+## 🕹️ Titles I've Shipped Quality For
+
+| Game | Studio | Platform | Focus Area |
+|---|---|---|---|
+| **Words With Friends** | Zynga | Mobile | Feature POC, High-Monetization QA |
+| **Marvel Strike Force** | Scopely | Mobile | Multiplayer, Core Gameplay |
+| **Metalstorm** | Starform | PC + Mobile | Cross-Platform, Performance |
+
+> 🏆 *"Recognized by clients for delivering bug-free releases and consistent performance impact across high-monetization mobile titles."*
 
 ---
 
-## 🔹 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadabrarShaikh&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadabrarShaikh&layout=compact&theme=tokyonight" height="165"/>
-</p>
+## 🔬 My Work — Live Bug Reports
+
+Real verified bugs found during game testing. Click through to view full reports with reproduction steps, evidence, and video proof.
+
+### Oh BiBi / Frag
+
+| Bug ID | Summary | Severity | Status |
+|---|---|---|---|
+| `FRAG-001` | Rate Flag Dialog Displays Debug String | 🟢 Low | Reported |
+| `FRAG-002` | Agent Jet Can Bypass Port C Barrier Using Special Ability | 🟡 Medium | Reported |
+
+> 📁 More bug reports added as titles ship. Details withheld for NDA-covered projects.
 
 ---
 
-## 🔹 Connect With Me  
-<p>
-  <a href="https://www.linkedin.com/in/mohammadabrar-shaikh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+## 🛠️ Skills & Arsenal
+
+### Testing Disciplines
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-555?style=flat-square)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-555?style=flat-square)
+![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-555?style=flat-square)
+![Smoke & Sanity](https://img.shields.io/badge/Smoke_%26_Sanity-555?style=flat-square)
+![Compatibility Testing](https://img.shields.io/badge/Compatibility_Testing-555?style=flat-square)
+
+### Tools & Platforms
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square)
+![TestMo](https://img.shields.io/badge/TestMo-6B4FBB?style=flat-square)
+![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-333?style=flat-square)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+### Learning
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-6C4AB6?style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST_Assured-333?style=flat-square)
 
 ---
 
-🔥 **Always learning. Always improving. Always testing.**
+## 💼 Experience
+
+```
+Senior Game QA Engineer  ·  GlobalStep  ·  Sep 2025 – Present
+────────────────────────────────────────────────────────────────
+▸ Leading manual testing efforts for mobile game features
+▸ Acting as Feature POC with end-to-end QA ownership
+▸ Designing and executing detailed test cases
+▸ Collaborating directly with clients for quality validation
+▸ Mentoring junior QA engineers
+
+Game QA Test Engineer  ·  GlobalStep  ·  May 2024 – Sep 2025
+────────────────────────────────────────────────────────────────
+▸ Functional, regression, smoke, and sanity testing
+▸ Validated gameplay, UI/UX, and multiplayer features
+▸ Identified critical bugs impacting gameplay & performance
+
+QA Test Engineer  ·  GlobalStep  ·  Feb 2022 – Nov 2022
+────────────────────────────────────────────────────────────────
+▸ Executed test cases and reported bugs accurately
+▸ Tested gameplay mechanics and UI components
+```
+
+---
+
+## 🎓 Education
+
+**Bachelor of Business Administration — Computer Application**  
+Abeda Inamdar Senior College, Pune · *Graduated 2024*
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to new Game QA opportunities — AAA studios, mobile-first teams, and quality-driven companies where precision matters.
+
+📧 [abrarshaikh842121@gmail.com](mailto:abrarshaikh842121@gmail.com)  
+📞 [+91-84212 19778](tel:+918421219778)  
+💼 [linkedin.com/in/mohammadabrar-shaikh](https://www.linkedin.com/in/mohammadabrar-shaikh/)
+
+---
+
+<div align="center">
+  <sub>Built with precision · Tested with purpose · Shipped with quality</sub>
+</div>
