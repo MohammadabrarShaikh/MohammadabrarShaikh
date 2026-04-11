@@ -515,7 +515,7 @@
       </div>
       <div class="bug-row" onclick="openBug('bug-frag-02')">
         <div class="bug-id">FRAG-002</div>
-        <div class="bug-summary-text">Kill feed UI overlaps HUD health bar on 18:9 ultrawide aspect ratio devices</div>
+        <div class="bug-summary-text">Agent Jet Can Bypass Port C Barrier Using Special Ability</div>
         <div><span class="bug-severity sev-medium">Medium</span></div>
         <div class="bug-status">Reported</div>
       </div>
@@ -875,23 +875,24 @@
       ]
     },
     'bug-frag-02': {
-      id: 'FRAG-002', title: 'Kill feed UI overlaps HUD health bar on 18:9 ultrawide aspect ratio devices',
+      id: 'FRAG-002', title: 'Agent Jet Can Bypass Port C Barrier Using Special Ability',
       game: 'Frag', studio: 'Oh BiBi', platform: 'Android (18:9 devices)',
       build: 'v4.2.1 (Live)', severity: 'medium', repro: '5/5 attempts',
-      description: 'On Android devices with an 18:9 display aspect ratio (e.g. Samsung Galaxy A-series, Redmi Note series), the kill feed notification panel in the top-right corner of the HUD overlaps with the health bar and shield indicator. The overlap obscures critical health information during combat, degrading gameplay readability and competitive fairness. The issue does not reproduce on 16:9 devices.',
+      description: 'Agent Jet is able to bypass the restricted barrier at Port C by using their special flying ability. This allows unintended access to restricted areas',
       steps: [
-        'Use an Android device with 18:9 aspect ratio (e.g. Samsung Galaxy A33, Redmi Note 11).',
-        'Launch Frag and enter any Quick Match game mode.',
-        'Enter combat and score or receive a kill — this triggers the kill feed to populate.',
-        'Observe the top-right corner of the screen.',
-        'Note that the kill feed notification text and icons render directly over the health/shield bar.'
+        'Launch the game',
+        'Start a Match',
+        'Select Agent Jet',
+        'Navigate to the barrier at Port C',
+        'Tap on the super ability',
+        'Move forward and hover above the barrier',
+        'Observe the agent pass the barrier'
       ],
-      expected: 'Kill feed notifications should render in a dedicated UI zone that does not overlap with the health bar or any other critical HUD element, regardless of aspect ratio.',
-      actual: 'Kill feed UI element overlaps the health and shield bar on 18:9 aspect ratio devices, making health values unreadable during active combat.',
+      expected: 'Agent Jet should not be able to cross or bypass the Port C barrier',
+      actual: 'Agent Jet successfully flies over through the barrier',
       media: [
-        { type: 'screenshot', label: 'Screenshot — Overlap on 18:9 device', file: null },
-        { type: 'screenshot', label: 'Screenshot — Correct layout on 16:9', file: null },
-        { type: 'video', label: 'Video — Side-by-side comparison', file: null }
+       // { type: 'screenshot', label: 'Screenshot — Overlap on 18:9 device', file: null },
+        { type: 'video', label: 'Video — Full reproduction', file: 'https://drive.google.com/file/d/134Blh9HicF3sG_aZZcg8U3gfd9Cnp6Ec/view?usp=drive_link' }
       ]
     }
   };
