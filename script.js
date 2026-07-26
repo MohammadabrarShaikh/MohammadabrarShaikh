@@ -205,7 +205,7 @@
     },
     'bug-saygames-01': {
       id: 'SAY-001', title: 'Placeholder Bug — Details Coming Soon',
-      game: 'Game TBA', studio: 'Say Games Studio', platform: 'TBA',
+      game: 'RUSH: Xtreme', studio: 'Say Games Studio', platform: 'Android',
       build: 'TBA', severity: 'low', repro: 'TBA',
       description: 'This is a placeholder bug entry. Replace this description with the real bug summary once details are finalized.',
       steps: [
