@@ -1,5 +1,4 @@
-
-  /* ═══════════════════════════════════════════
+/* ═══════════════════════════════════════════
      LOADER
   ═══════════════════════════════════════════ */
   const STEPS = [
@@ -202,6 +201,22 @@
       media: [
        // { type: 'screenshot', label: 'Screenshot — Overlap on 18:9 device', file: null },
         { type: 'video', label: 'Video — Full reproduction', file: 'https://drive.google.com/file/d/134Blh9HicF3sG_aZZcg8U3gfd9Cnp6Ec/view?usp=drive_link' }
+      ]
+    },
+    'bug-saygames-01': {
+      id: 'SAY-001', title: 'Placeholder Bug — Details Coming Soon',
+      game: 'Game TBA', studio: 'Say Games Studio', platform: 'TBA',
+      build: 'TBA', severity: 'low', repro: 'TBA',
+      description: 'This is a placeholder bug entry. Replace this description with the real bug summary once details are finalized.',
+      steps: [
+        'Step 1 — to be added',
+        'Step 2 — to be added',
+        'Step 3 — to be added'
+      ],
+      expected: 'To be added.',
+      actual: 'To be added.',
+      media: [
+        { type: 'screenshot', label: 'Screenshot — Add media here', file: null }
       ]
     }
   };

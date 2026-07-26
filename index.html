@@ -201,6 +201,23 @@
         </div>
         <span class="studio-card-cta">View Bugs →</span>
       </div>
+      <!-- Say Games Studio -->
+      <div class="studio-card" onclick="openStudio('saygames')">
+        <div class="studio-banner-placeholder">
+          <div class="studio-logo-wrap">
+            <svg width="52" height="52" viewBox="0 0 52 52" fill="none">
+              <polygon points="26,3 47,14.5 47,37.5 26,49 5,37.5 5,14.5" stroke="var(--amber)" stroke-width="1.2" fill="none"/>
+              <polygon points="26,17 33,26 26,35 19,26" fill="var(--amber)" opacity="0.5"/>
+            </svg>
+          </div>
+        </div>
+        <div class="studio-card-body">
+          <div class="studio-card-name">Say Games Studio</div>
+          <div class="studio-card-meta">Mobile Game Studio</div>
+          <div class="studio-card-stat"><span class="studio-card-stat-dot"></span>1 Verified Bug · 1 Game</div>
+        </div>
+        <span class="studio-card-cta">View Bugs →</span>
+      </div>
       <!-- TBA -->
       <div class="studio-card" style="opacity:0.35;pointer-events:none;">
         <div class="studio-banner-placeholder">
@@ -246,6 +263,26 @@
     </div>
   </div>
 
+  <!-- Say Games Studio Detail -->
+  <div class="studio-detail" id="detail-saygames">
+    <div class="studio-detail-header">
+      <button class="studio-detail-back" onclick="closeStudio()">← Back to Studios</button>
+      <div class="studio-detail-name">Say Games Studio &nbsp;<span>/ Game TBA</span></div>
+    </div>
+    <div class="game-tabs">
+      <button class="game-tab active" onclick="selectGame(this,'saygame')">Game TBA</button>
+    </div>
+    <div id="game-saygame">
+      <div class="bug-list-header"><span>Bug ID</span><span>Summary</span><span>Severity</span><span>Status</span></div>
+      <div class="bug-row" onclick="openBug('bug-saygames-01')">
+        <div class="bug-id">SAY-001</div>
+        <div class="bug-summary-text">Placeholder Bug — Details Coming Soon</div>
+        <div><span class="bug-severity sev-low">Low</span></div>
+        <div class="bug-status">Draft</div>
+      </div>
+    </div>
+  </div>
+
   <div class="section-divider"><hr /></div>
 
   <!-- IMPACT -->
@@ -276,7 +313,7 @@
       </div>
       <div class="skill-group">
         <div class="skill-group-label">Tools &amp; Platforms</div>
-        <ul class="skill-list"><li>JIRA</li><li>TestRail</li><li>TestMo</li><li>Charles Proxy</li><li>Android Studio</li><li>ADB</li></ul>
+        <ul class="skill-list"><li>JIRA</li><li>TestRail</li><li>TestMo</li><li>Charles Proxy</li><li>Android Studio</li><li>ADB</li><li>Postman</li></ul>
       </div>
       <div class="skill-group">
         <div class="skill-group-label">Technical (Learning)</div>
@@ -285,6 +322,40 @@
       <div class="skill-group">
         <div class="skill-group-label">Soft Skills</div>
         <ul class="skill-list"><li>Client Communication</li><li>Feature Ownership</li><li>Leadership</li><li>Mentoring</li></ul>
+      </div>
+    </div>
+  </section>
+
+  <div class="section-divider"><hr /></div>
+
+  <!-- TOOLS I USE -->
+  <section id="tools" class="fade-up">
+    <div class="section-label">// 06.1 &mdash; Toolkit</div>
+    <h2 class="section-title">Applications<br>I Use Daily</h2>
+    <div class="tools-grid">
+      <div class="tool-tile">
+        <div class="tool-icon">📮</div>
+        <div class="tool-name">Postman</div>
+      </div>
+      <div class="tool-tile">
+        <div class="tool-icon">🎫</div>
+        <div class="tool-name">JIRA</div>
+      </div>
+      <div class="tool-tile">
+        <div class="tool-icon">🧪</div>
+        <div class="tool-name">TestMo</div>
+      </div>
+      <div class="tool-tile">
+        <div class="tool-icon">🛤️</div>
+        <div class="tool-name">TestRail</div>
+      </div>
+      <div class="tool-tile">
+        <div class="tool-icon">🤖</div>
+        <div class="tool-name">Android Studio</div>
+      </div>
+      <div class="tool-tile">
+        <div class="tool-icon">🌐</div>
+        <div class="tool-name">Charles Proxy</div>
       </div>
     </div>
   </section>
